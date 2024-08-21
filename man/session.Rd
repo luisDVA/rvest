@@ -74,7 +74,7 @@ s \%>\%
   session_history()
 
 s \%>\%
-  session_jump_to("hadley-wickham.jpg") \%>\%
+  session_jump_to("hadley.jpg") \%>\%
   session_back() \%>\%
   session_history()
 
